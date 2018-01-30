@@ -4,7 +4,7 @@ result:
 
 ## 3D Object and Scene Representation
 
-you will see the framework of a cylinder
+you will see the framework of a cylinder, it has been mesh by the function Cylinder in Lab3
 ![alt text](https://github.com/kangqiwang/OpenGL_Java/blob/master/test3_solution.png)
  
  ## Image Processing
